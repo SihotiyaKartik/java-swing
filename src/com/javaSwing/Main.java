@@ -11,7 +11,8 @@ public class Main {
 		//new label();
 		//new panel();
 		//new button();
-		new borderlayout();
+		//new borderlayout();
+		new flowlayout();
 	}
 
 }
