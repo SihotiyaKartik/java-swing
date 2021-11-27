@@ -16,7 +16,10 @@ public class Main {
 		//new gridlayout();
 		//new jlayerpane();
 		//new launchpage();
-		new joptionpane();
+		//new joptionpane();
+		//new myFrame();
+		//new checkbox();
+		new radio();
 	}
 
 }
