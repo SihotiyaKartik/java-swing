@@ -15,7 +15,8 @@ public class Main {
 		//new flowlayout();
 		//new gridlayout();
 		//new jlayerpane();
-		new launchpage();
+		//new launchpage();
+		new joptionpane();
 	}
 
 }
