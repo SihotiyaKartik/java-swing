@@ -14,7 +14,8 @@ public class Main {
 		//new borderlayout();
 		//new flowlayout();
 		//new gridlayout();
-		new jlayerpane();
+		//new jlayerpane();
+		new launchpage();
 	}
 
 }
