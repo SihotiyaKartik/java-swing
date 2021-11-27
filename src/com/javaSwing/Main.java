@@ -13,7 +13,8 @@ public class Main {
 		//new button();
 		//new borderlayout();
 		//new flowlayout();
-		new gridlayout();
+		//new gridlayout();
+		new jlayerpane();
 	}
 
 }
