@@ -21,7 +21,8 @@ public class Main {
 		//new checkbox();
 		//new radio();
 		//new comboBox();
-		new progress();
+		//new progress();
+		new menuBar();
 	}
 
 }
