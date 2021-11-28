@@ -21,7 +21,7 @@ public class Main {
 		//new checkbox();
 		//new radio();
 		//new comboBox();
-		new slider();
+		new progress();
 	}
 
 }
