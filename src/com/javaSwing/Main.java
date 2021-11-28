@@ -23,7 +23,8 @@ public class Main {
 		//new comboBox();
 		//new progress();
 		//new menuBar();
-		new fileChooser();
+		//new fileChooser();
+		new colorChooser();
 	}
 
 }
