@@ -22,7 +22,8 @@ public class Main {
 		//new radio();
 		//new comboBox();
 		//new progress();
-		new menuBar();
+		//new menuBar();
+		new fileChooser();
 	}
 
 }
