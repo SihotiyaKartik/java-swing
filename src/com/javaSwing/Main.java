@@ -19,7 +19,9 @@ public class Main {
 		//new joptionpane();
 		//new myFrame();
 		//new checkbox();
-		new radio();
+		//new radio();
+		//new comboBox();
+		new slider();
 	}
 
 }
