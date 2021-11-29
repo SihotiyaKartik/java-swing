@@ -24,7 +24,9 @@ public class Main {
 		//new progress();
 		//new menuBar();
 		//new fileChooser();
-		new colorChooser();
+		//new colorChooser();
+		//new keylistener();
+		new mouseListener();
 	}
 
 }
